@@ -1,0 +1,21 @@
+{
+  "name": "Daamkassab calc",
+  "short_name": "Daamkassab",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1d6b2f",
+  "description": "حساب الدعم لمربي الماشية",
+  "icons": [
+    {
+      "src": "https://unfair-purple-gcmlikli2d.edgeone.app/Untitled%20design%20(5).png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://yeasty-amethyst-1tvdexnbnk.edgeone.app/Untitled%20design%20(6).png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
